@@ -1,0 +1,70 @@
+{
+  "popularLists": [
+    {
+      "id": 1,
+      "title": "Money Heist",
+      "genre": "Heist",
+      "language": "Spanish",
+      "rating": "4.5",
+      "synopsis": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero sint quaerat ut. Laborum recusandae reiciendis, quisquam ab harum saepe! Ab aspernatur, voluptas iure in amet molestiae debitis maiores? Iusto!",
+      "poster": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/6/w1200X800/MH5-.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Family Man",
+      "genre": "Drama/Thriller",
+      "language": "Hindi",
+      "rating": "5",
+      "synopsis": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero sint quaerat ut. Laborum recusandae reiciendis, quisquam ab harum saepe! Ab aspernatur, voluptas iure in amet molestiae debitis maiores? Iusto!",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzRjZWVmMzItNTdmYS00OWEzLTgyOGUtNThiNTU2ZThlYjY0XkEyXkFqcGdeQXVyMTIxMDk2NDE4._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Friends",
+      "genre": "Sitcom",
+      "language": "English",
+      "rating": "5",
+      "synopsis": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero sint quaerat ut. Laborum recusandae reiciendis, quisquam ab harum saepe! Ab aspernatur, voluptas iure in amet molestiae debitis maiores? Iusto!",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Beast",
+      "genre": "Action/thriller",
+      "language": "Tamil",
+      "rating": "NA",
+      "synopsis": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero sint quaerat ut. Laborum recusandae reiciendis, quisquam ab harum saepe! Ab aspernatur, voluptas iure in amet molestiae debitis maiores? Iusto!",
+      "poster": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2022/3/30/original/Beasttrailertobereleasedonthisdate.jpg"
+    },
+    {
+      "id": 5,
+      "title": "KGF 2",
+      "genre": "Action/Thriller",
+      "language": "Kannada",
+      "rating": "NA",
+      "synopsis": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero sint quaerat ut. Laborum recusandae reiciendis, quisquam ab harum saepe! Ab aspernatur, voluptas iure in amet molestiae debitis maiores? Iusto!",
+      "poster": "https://www.koimoi.com/wp-content/new-galleries/2021/05/kgf-chapter-2-starring-yash-to-be-a-long-long-ride-see-whats-the-duration-of-the-magnum-opus-0001.jpg"
+    },
+    
+    {
+      "title": "Rakesh",
+      "language": "Kannda",
+      "genre": "Crime thriller",
+      "synopsis": "fhiudhiuhih",
+      "id": 9
+    }
+  ],
+  "description": [
+    {
+      "information": "Avengers Assemble"
+    }
+  ],
+  "useDetails": [
+    {
+      "name": "Rakesh ",
+      "email": "79785844",
+      "phnumber": "465444",
+      "id": 2
+    }
+  ]
+}
